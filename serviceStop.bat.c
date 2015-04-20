@@ -1,0 +1,6 @@
+net stop "Nuxiba Chat Service"
+net stop "Nuxiba Database Loader Service"
+net stop "Nuxiba File Manager"
+net stop "NuxibaCallcenterService"
+net stop "NuxibaLoggerService"
+net stop "TransferCwAvrs"
