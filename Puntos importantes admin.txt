@@ -1,0 +1,9 @@
+Cambiar IP
+
+C:\Users\dmiranda\Adobe Flash Builder 4.5\FlexAdminProject\src\com\nuxiba\utils\SWFUtils.as
+
+Saber la hoja del menu qe corresponde
+
+C:\Users\dmiranda\Adobe Flash Builder 4.5\FlexAdminProject\src\General\UIMain.mxml
+
+Con el boton de ayuda del admin te dice cual es el case;
